@@ -16,7 +16,8 @@ SOFTWARE.
 ////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
 LEGAL NOTICE...
 ////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
-Herein forward Software, App, Code, Agent, Source, Template, all mean the same thing as "Software" and are under the MIT License and solely the responsibility thereof the consumer and/or user of said Software.
+Herein forward Software, App, Code, Agent, Source, Template, all mean the same thing as "Software" and are under the MIT License 
+and solely the responsibility thereof the consumer and/or user of said Software.
 
 This Software is provided under the MIT License terms (See below). In addition to these terms, by using this Software you agree to the following:
 
@@ -25,7 +26,9 @@ This includes complying with all internal privacy and security policies of your 
 
 Where applicable, you may be responsible for data related incidents or data subject requests for data collected through your Software.
 
-Any trademarks or registered trademarks of Microsoft (Or other 3rd party companies e.g. ServiceNow, Workday, Salesforce, etc.) in the United States and/or other countries and logos included in this repository are the property of Microsoft (And other said companies) and the license for this project does not grant you rights to use any Microsoft (Or other companies) names, logos or trademarks outside of this repository. Microsoft's general trademark guidelines can be found on their website.
+Any trademarks or registered trademarks of Microsoft (Or other 3rd party companies e.g. ServiceNow, Workday, Salesforce, etc.) in the United States and/or other countries 
+and logos included in this repository are the property of Microsoft (And other said companies) and the license for this project does not grant you rights to use any Microsoft 
+(Or other companies) names, logos or trademarks outside of this repository. Microsoft's general trademark guidelines can be found on their website.
 
 
 ////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
@@ -195,7 +198,8 @@ SOFTWARE.
 ////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
 LEGAL NOTICE...
 ////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
-Herein forward Software, App, Code, Agent, Source, Template, all mean the same thing as "Software" and are under the MIT License and solely the responsibility thereof the consumer and/or user of said Software.
+Herein forward Software, App, Code, Agent, Source, Template, all mean the same thing as "Software" and are under the MIT License 
+and solely the responsibility thereof the consumer and/or user of said Software.
 
 This Software is provided under the MIT License terms (See below). In addition to these terms, by using this Software you agree to the following:
 
@@ -204,7 +208,9 @@ This includes complying with all internal privacy and security policies of your 
 
 Where applicable, you may be responsible for data related incidents or data subject requests for data collected through your Software.
 
-Any trademarks or registered trademarks of Microsoft (Or other 3rd party companies e.g. ServiceNow, Workday, Salesforce, etc.) in the United States and/or other countries and logos included in this repository are the property of Microsoft (And other said companies) and the license for this project does not grant you rights to use any Microsoft (Or other companies) names, logos or trademarks outside of this repository. Microsoft's general trademark guidelines can be found on their website.
+Any trademarks or registered trademarks of Microsoft (Or other 3rd party companies e.g. ServiceNow, Workday, Salesforce, etc.) in the United States and/or other countries 
+and logos included in this repository are the property of Microsoft (And other said companies) and the license for this project does not grant you rights to use any Microsoft 
+(Or other companies) names, logos or trademarks outside of this repository. Microsoft's general trademark guidelines can be found on their website.
 
 
 ////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
