@@ -1,6 +1,14 @@
 # PowerShell.MS-Teams.Get-TeamsChannelsUsersList
 
 PowerShell Code using the MS-Teams Mod to Get All Teams and Channel Users in List (CVS Export)
+Original use case(s): 
+"I need a list of all the Teams & Channels in my Org's Tenant!"
+"I need a list of all the Channels of a Team!"
+"I need a list of all the Channels of a Team and their respective type (Standard, Private, Shared, etc.)!"
+"I need a list of all the private Channels of a Team!"
+"I need a list of all the channels a user has access too!"
+"I need a list of Teams & Channels, and who the Owners are!"
+"I need a list of..." Once you see the output the list above continues to grow in how you can use this output list!
 
 ////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
 DISCLAIMER...
